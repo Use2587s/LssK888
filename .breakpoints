@@ -1,0 +1,12 @@
+{
+  "files": {
+    "src/commands/Information/help.js": [
+      {
+        "id": "969e0e2a-fb6d-429c-971d-89c6fe16c70b",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
