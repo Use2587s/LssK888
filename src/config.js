@@ -11,7 +11,7 @@ module.exports = {
     "mongodb+srv://pee33:wnn99e@cluster0.fgivnid.mongodb.net/?retryWrites=true&w=majority", // MongoDb URL
   topggapi: "",
   embedColor: process.env.COlOR || "#00fff5", // embed colour
-  logs: process.env.LOGS || "1198586029343518820", // channel id for guild create and delete logs
+  logs: process.env.LOGS || "", // channel id for guild create and delete logs
   langs: process.env.LANGS || "en",
 
   nodes: [
